@@ -1,0 +1,21 @@
+﻿Auto-attach to process '[4968] [SQL] BG3WS0252' on machine 'BG3WS0252' succeeded.
+The thread 'BG3WS0252\SQLEXPRESS [63]' (0x2438) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x4778) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x14f4) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x4cb4) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x3b78) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x4778) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x14f4) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x4cb4) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x3b78) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x4778) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x14f4) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x4cb4) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x3b78) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x4778) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x14f4) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x4cb4) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x3b78) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [68]' (0x4778) has exited with code 0 (0x0).
+The thread 'BG3WS0252\SQLEXPRESS [63]' (0x2438) has exited with code 0 (0x0).
+The program '[4968] [SQL] BG3WS0252: BG3WS0252\SQLEXPRESS' has exited with code 0 (0x0).
